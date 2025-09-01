@@ -30,3 +30,17 @@ Para rodar este projeto localmente, siga os passos abaixo:
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/WillVernen/curriculo-react-tanjiro.git](https://github.com/WillVernen/curriculo-react-tanjiro.git)
+
+2. **Navegue até a pasta do projeto:**
+    ```bash
+    Ex.: cd curriculo-react-tanjiro
+
+3. **Instale as dependencias:**
+    ```bash
+    npm instal
+
+4. **Inicie o servidor de desenvolvimento:**
+    ```bash
+    npm run dev
+
+5. **Abra o endereço indicado no seu terminal (geralmente http://localhost:5173) no seu navegador para ver o resultado.**
