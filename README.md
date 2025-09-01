@@ -37,7 +37,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 3. **Instale as dependencias:**
     ```bash
-    npm instal
+    npm install
 
 4. **Inicie o servidor de desenvolvimento:**
     ```bash
