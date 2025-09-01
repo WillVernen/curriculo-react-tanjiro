@@ -1,6 +1,6 @@
 import './App.css'
-import minhafoto from './assets/tanjiro.jpeg' // Certifique-se que o caminho está correto
-import { resumeData } from './resumeData'; // Importamos os dados
+import minhafoto from '../assets/tanjiro.jpeg' // Certifique-se que o caminho está correto
+import { resumeData } from '../data/resumeData.js'; // Importamos os dados
 
 function App() {
   return (
