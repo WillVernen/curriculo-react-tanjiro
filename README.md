@@ -1,12 +1,32 @@
-# React + Vite
+# Currículo Interativo - Tanjiro Kamado (Projeto React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto de currículo web desenvolvido com React e Vite, inspirado no personagem Tanjiro Kamado do anime Demon Slayer. O objetivo foi aplicar conceitos fundamentais de React e CSS para criar uma página visualmente agradável e bem estruturada.
 
-Currently, two official plugins are available:
+## 👨‍💻 Autor
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Desenvolvido por **Will Vernen**.
 
-## Expanding the ESLint configuration
+[LinkedIn](https://www.linkedin.com/in/willvernen/) | [GitHub](https://github.com/WillVernen)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshot
+
+[Screenshot do Projeto](https://imgur.com/a/screenshot-curr-culo-tanjiro-ktxc1Jc)
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **React:** Biblioteca para a construção da interface de usuário.
+- **Vite:** Ferramenta de build para um desenvolvimento mais rápido.
+- **CSS3:** Para estilização e design da página.
+- **JavaScript (ES6+):** Linguagem base da aplicação.
+
+---
+
+## ⚙️ Como Executar o Projeto
+
+Para rodar este projeto localmente, siga os passos abaixo:
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/WillVernen/curriculo-react-tanjiro.git](https://github.com/WillVernen/curriculo-react-tanjiro.git)
